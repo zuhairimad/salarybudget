@@ -77,9 +77,7 @@ function App() {
             Salary & Budget Comparisons
           </h1>
           <p className="mt-2 text-lg text-gray-600">
-            Hi, I'm moving across the country. I built this calculator to
-            forecast how living in different cities would affect my salary and
-            monthly budget. For feedback email me: zi35@cornell.edu.
+            Moving to a new city? I built an app to help you understand how cost-of-living differences impact your salary and budget.
           </p>
         </div>
 
